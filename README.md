@@ -1,5 +1,6 @@
 SEM_DEMO
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DwayneWilliams3372/devops/main.yml?branch=master)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DwayneWilliams3372/SEM_DEMO/main.yml?branch=master)
+
 
 [![LICENSE](https://img.shields.io/github/license/DwayneWilliams3372/sem.svg?style=flat-square)](https://github.com/DwayneWilliams3372/sem/blob/master/LICENSE)
 
