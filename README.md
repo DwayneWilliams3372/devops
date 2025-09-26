@@ -6,6 +6,6 @@ BADGE DEMO
 
 [![Releases](https://img.shields.io/github/release/DwayneWilliams3372/devops/all.svg?style=flat-square)](https://github.com/DwayneWilliams3372/devops/releases)
 
-
+[![LICENSE](https://img.shields.io/github/license/DwayneWilliams3372/devops.svg?style=flat-square)](https://github.com/DwayneWilliams3372/devops/blob/master/LICENSE)
 
 [![A workflow for my Hello World App](https://github.com/DwayneWilliams3372/devops/actions/workflows/main.yml/badge.svg)](https://github.com/DwayneWilliams3372/devops/actions/workflows/main.yml)
