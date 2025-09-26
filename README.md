@@ -9,3 +9,5 @@ BADGE DEMO
 
 [![Releases](https://img.shields.io/github/release/DwayneWilliams3372/sem/all.svg?style=flat-square)](https://github.com/DwayneWilliams3372/sem/releases)
 
+![GitHub Actions](https://github.com/DwayneWilliams3372/devops/actions/workflows/main.yml/badge.svg)
+
