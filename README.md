@@ -1,6 +1,5 @@
 BADGE DEMO
-
-![Build Status](https://img.shields.io/github/actions/workflow/status/DwayneWilliams3372/devops/main.yml?branch=master)
+[![A workflow for my Hello World App](https://github.com/DwayneWilliams3372/devops/actions/workflows/main.yml/badge.svg)](https://github.com/DwayneWilliams3372/devops/actions/workflows/main.yml)
 
 
 
