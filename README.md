@@ -12,5 +12,3 @@ BADGE DEMO
 
 
 
-
-neWilliams3372/devops/releases)
