@@ -1,13 +1,16 @@
-BADGE DEMO
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DwayneWilliams3372/devops/main.yml?branch=master)
+# BADGE DEMO
 
+## Build Status
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/DwayneWilliams3372/devops/main.yml?branch=master)
+
+## License
 [![LICENSE](https://img.shields.io/github/license/DwayneWilliams3372/devops.svg?style=flat-square)](https://github.com/DwayneWilliams3372/devops/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/DwayneWilliams3372/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
+## Releases
+[![GitHub Release](https://img.shields.io/github/v/release/DwayneWilliams3372/devops?style=flat-square)](https://github.com/DwayneWilliams3372/devops/releases)
 
+## Workflow Status
 [![A workflow for my Hello World App](https://github.com/DwayneWilliams3372/devops/actions/workflows/main.yml/badge.svg)](https://github.com/DwayneWilliams3372/devops/actions/workflows/main.yml)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DwayneWilliams3372/devops/main.yml?branch=<branch>)
-
-
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/DwayneWilliams3372/devops/main.yml?branch=master)
